@@ -1,0 +1,224 @@
+Food,Type,Calories,Protein(g),Carbs(g),Fat(g),Vegetarian
+Chicken Breast,Weight Loss,165,31,0,3.6,0
+Salmon Fillet,Healthy Diet,233,25,0,8,0
+Quinoa,Healthy Diet,120,4,21,2,1
+Avocado,Weight Gain,160,2,2,15,1
+Almonds,Healthy Diet,207,6,6,18,1
+Broccoli,Weight Loss,31,3,6,0.4,1
+Brown Rice,Healthy Diet,112,2.6,23.5,0.9,1
+Spinach,Healthy Diet,23,2.9,3.6,0.4,1
+Sweet Potato,Weight Gain,90,2,21,0,1
+Peanut Butter,Weight Gain,588,25,20,50,1
+Olive Oil,Healthy Diet,884,0,0,100,1
+Eggs,Weight Gain,155,13,1.1,11,0
+Greek Yogurt,Healthy Diet,59,10,4,0.4,1
+Apple,Weight Loss,52,0.3,14,0.2,1
+Banana,Weight Gain,89,1.1,23,0.3,1
+Beef Steak,Weight Gain,250,25,0,17,0
+Whole Wheat Bread,Healthy Diet,247,12,49,2,1
+Cottage Cheese,Healthy Diet,98,12,3,4,1
+Tuna,Weight Loss,118,25,0,1,0
+Oatmeal,Healthy Diet,68,2.5,12,1.4,1
+Black Beans,Weight Loss,339,21,63,1.4,1
+Turkey Breast,Weight Loss,135,29,0,3,0
+Cauliflower,Healthy Diet,25,1.9,5,0.3,1
+Coconut Oil,Weight Gain,862,0,0,100,1
+Milk,Weight Gain,61,3.2,5,3.4,0
+Rice Cakes,Healthy Diet,35,0.7,7,0.3,1
+Pork Chop,Weight Gain,386,31,0,29,0
+Lentils,Weight Loss,230,18,40,1,1
+Mango,Weight Gain,60,0.8,15,0.4,1
+Lettuce,Weight Loss,15,1.4,2.9,0.2,1
+Cashews,Weight Gain,553,18,30,44,1
+Cucumber,Weight Loss,15,0.7,3.6,0.2,1
+Cottage Pie,Healthy Diet,171,13,11,7,0
+White Bread,Weight Gain,265,8.5,49,3,1
+Grapes,Weight Gain,69,0.6,18,0.2,1
+Salami,Weight Gain,336,22,2,26,0
+Chicken Soup,Healthy Diet,87,10,4,3,0
+Steamed Vegetables,Healthy Diet,50,2,9,1,1
+Grilled Shrimp,Weight Loss,100,24,0,1,0
+Hummus,Healthy Diet,177,8,10,14,1
+Tofu,Healthy Diet,76,8,1,5,1
+Soy Milk,Healthy Diet,33,3.3,1.7,1.8,1
+Feta Cheese,Healthy Diet,264,14,4.1,21,0
+Cottage Pie,Healthy Diet,177,13,9,10,0
+Green Tea,Healthy Diet,0,0,0,0,1
+Pasta,Weight Gain,131,5,26,0.5,1
+Lamb Chops,Weight Gain,206,28,0,10,0
+Sushi,Weight Loss,60,5,8,1,1
+Roast Beef,Weight Gain,219,23,0,14,0
+Chicken Salad,Weight Loss,143,26,3.6,3.1,0
+Bacon,Weight Gain,541,37,0.1,42,0
+Pineapple,Weight Gain,50,0.5,13,0.1,1
+Pizza,Weight Gain,266,12,30,10,0
+Tacos,Weight Gain,216,11,21,9,0
+Lasagna,Weight Gain,267,15,17,14,0
+Pancakes,Weight Gain,227,6,25,12,1
+Bagel,Weight Gain,275,11,56,1,1
+French Toast,Weight Gain,174,8,16,9,1
+Waffles,Weight Gain,291,6,30,14,1
+Cheeseburger,Weight Gain,295,17,27,13,0
+Spaghetti,Weight Gain,157,5,31,1,1
+Burrito,Weight Gain,326,12,53,7,0
+Hot Dog,Weight Gain,242,12,19,14,0
+Nachos,Weight Gain,297,7,32,14,0
+Fried Chicken,Weight Gain,184,14,7,11,0
+Chili,Weight Gain,162,10,15,6,1
+Meatloaf,Weight Gain,186,14,8,11,0
+Fried Rice,Weight Gain,218,5,37,4,1
+Chicken Soup,Healthy Diet,87,10,4,3,0
+Steamed Vegetables,Healthy Diet,50,2,9,1,1
+Grilled Shrimp,Weight Loss,100,24,0,1,0
+Hummus,Healthy Diet,177,8,10,14,1
+Tofu,Healthy Diet,76,8,1,5,1
+Soy Milk,Healthy Diet,33,3.3,1.7,1.8,1
+Feta Cheese,Healthy Diet,264,14,4.1,21,0
+Cottage Pie,Healthy Diet,177,13,9,10,0
+Green Tea,Healthy Diet,0,0,0,0,1
+Pasta,Weight Gain,131,5,26,0.5,1
+Lamb Chops,Weight Gain,206,28,0,10,0
+Sushi,Weight Loss,60,5,8,1,1
+Roast Beef,Weight Gain,219,23,0,14,0
+Chicken Salad,Weight Loss,143,26,3.6,3.1,0
+Bacon,Weight Gain,541,37,0.1,42,0
+Pineapple,Weight Gain,50,0.5,13,0.1,1
+Pizza,Weight Gain,266,12,30,10,0
+Tacos,Weight Gain,216,11,21,9,0
+Lasagna,Weight Gain,267,15,17,14,0
+Pancakes,Weight Gain,227,6,25,12,1
+Bagel,Weight Gain,275,11,56,1,1
+French Toast,Weight Gain,174,8,16,9,1
+Waffles,Weight Gain,291,6,30,14,1
+Cheeseburger,Weight Gain,295,17,27,13,0
+Spaghetti,Weight Gain,157,5,31,1,1
+Burrito,Weight Gain,326,12,53,7,0
+Hot Dog,Weight Gain,242,12,19,14,0
+Nachos,Weight Gain,297,7,32,14,0
+Fried Chicken,Weight Gain,184,14,7,11,0
+Chili,Weight Gain,162,10,15,6,1
+Meatloaf,Weight Gain,186,14,8,11,0
+Fried Rice,Weight Gain,218,5,37,4,1
+Hamburger,Weight Gain,264,13,31,11,0
+Fish and Chips,Weight Gain,597,22,68,27,0
+Corn on the Cob,Weight Gain,132,5,28,1.8,1
+Pulled Pork Sandwich,Weight Gain,300,18,28,13,0
+Chicken Parmesan,Weight Gain,423,29,16,26,0
+Pad Thai,Weight Gain,357,9,38,19,0
+Shrimp Alfredo,Weight Gain,600,30,52,31,0
+Vegetable Stir Fry,Weight Gain,109,3,24,1,1
+Meatball Sub,Weight Gain,534,25,56,24,0
+Chicken Tenders,Weight Gain,365,20,25,21,0
+Beef Tacos,Weight Gain,226,13,14,14,0
+Tuna Melt,Weight Gain,288,21,18,15,0
+Pork Ribs,Weight Gain,421,23,1,36,0
+Grilled Cheese Sandwich,Weight Gain,310,12,28,15,0
+Chicken Fried Rice,Weight Gain,438,30,38,16,0
+Cheesecake,Weight Gain,321,6,25,22,0
+Chicken Quesadilla,Weight Gain,528,31,32,27,0
+Potato Salad,Weight Gain,143,2,17,7,1
+Macaroni and Cheese,Weight Gain,291,12,31,12,0
+Beef Stew,Weight Gain,220,20,5,14,0
+Caesar Salad,Weight Gain,184,6,8,15,0
+Clam Chowder,Weight Gain,163,7,19,6,0
+Egg Salad,Weight Gain,196,12,2,15,0
+Sloppy Joes,Weight Gain,313,14,32,15,0
+Pot Roast,Weight Gain,337,24,6,25,0
+Fettuccine Alfredo,Weight Gain,299,10,43,11,0
+Creamy Tomato Soup,Weight Gain,184,5,17,10,0
+Taco Salad,Weight Gain,408,17,35,22,0
+Pepperoni Pizza,Weight Gain,298,14,30,13,0
+Meatball Marinara Sub,Weight Gain,472,20,54,20,0
+Pulled Chicken Sandwich,Weight Gain,260,25,17,10,0
+Nachos Supreme,Weight Gain,252,8,32,10,0
+Cheese Fries,Weight Gain,312,9,39,13,0
+Chicken Wings,Weight Gain,431,28,8,33,0
+Onion Rings,Weight Gain,420,5,64,18,0
+BBQ Ribs,Weight Gain,348,25,2,27,0
+Gravy,Weight Gain,28,1,3,1,1
+Chicken Pot Pie,Weight Gain,487,21,45,23,0
+Fried Fish,Weight Gain,210,17,5,13,0
+Spaghetti and Meatballs,Weight Gain,390,18,47,14,0
+Beef and Broccoli,Weight Gain,170,14,9,8,0
+Chicken Marsala,Weight Gain,226,20,6,14,0
+Chicken Fajitas,Weight Gain,202,23,7,9,0
+Creamed Spinach,Weight Gain,90,4,5,7,1
+Shrimp Scampi,Weight Gain,242,16,9,17,0
+Pepper Steak,Weight Gain,204,20,5,12,0
+Cheddar Cheese Soup,Weight Gain,333,10,15,27,0
+Chicken Tacos,Weight Gain,188,19,14,8,0
+Beef Enchiladas,Weight Gain,289,19,24,13,0
+Sausage Gravy,Weight Gain,280,5,18,22,0
+Biscuits and Gravy,Weight Gain,485,13,45,29,0
+Beef Wellington,Weight Gain,431,28,12,29,0
+Lobster Bisque,Weight Gain,280,11,12,22,0
+Sausage Rolls,Weight Gain,475,10,30,36,0
+Beef Stroganoff,Weight Gain,214,22,7,13,0
+Beef Bourguignon,Weight Gain,300,27,9,19,0
+Pork Tenderloin,Weight Gain,156,29,0,3,0
+Pork Chops,Weight Gain,164,30,0,3,0
+Chicken Alfredo,Weight Gain,540,22,70,20,0
+Chicken Cordon Bleu,Weight Gain,189,20,5,10,0
+Chicken Enchiladas,Weight Gain,312,18,24,16,0
+Ginger Chicken,Weight Gain,194,22,3,10,0
+Lemon Chicken,Weight Gain,184,19,2,11,0
+Mongolian Beef,Weight Gain,233,19,11,14,0
+Orange Chicken,Weight Gain,289,22,14,17,0
+Sesame Chicken,Weight Gain,354,20,26,19,0
+Shrimp Fried Rice,Weight Gain,267,13,28,10,0
+Sweet and Sour Chicken,Weight Gain,238,17,23,9,0
+Teriyaki Chicken,Weight Gain,231,21,11,11,0
+Chicken and Rice,Weight Gain,324,19,34,11,0
+Chicken Curry,Weight Gain,332,20,29,15,0
+Butter Chicken,Weight Gain,320,21,13,18,0
+Coq au Vin,Weight Gain,333,19,11,22,0
+Beef Curry,Weight Gain,328,21,18,18,0
+Biryani,Weight Gain,300,14,43,8,0
+Fish Curry,Weight Gain,165,23,5,6,0
+Lamb Curry,Weight Gain,223,17,6,15,0
+Paneer Tikka Masala,Weight Gain,328,15,14,25,0
+Palak Paneer,Weight Gain,222,12,9,17,0
+Vegetable Korma,Weight Gain,199,7,17,12,0
+Dal Makhani,Weight Gain,283,12,21,17,0
+Chana Masala,Weight Gain,235,7,28,9,0
+Aloo Gobi,Weight Gain,128,5,18,5,0
+Vegetable Biryani,Weight Gain,193,4,35,3,1
+Mushroom Risotto,Weight Gain,174,5,31,3,1
+Ratatouille,Weight Gain,75,2,13,2,1
+Eggplant Parmesan,Weight Gain,312,11,18,21,0
+Caprese Salad,Weight Gain,220,12,7,17,1
+Caesar Salad,Weight Gain,184,6,8,15,0
+Greek Salad,Weight Gain,136,6,7,10,1
+Cobb Salad,Weight Gain,340,18,10,27,0
+Chef Salad,Weight Gain,318,23,10,20,0
+Nicoise Salad,Weight Gain,185,21,4,10,0
+Waldorf Salad,Weight Gain,215,3,20,14,1
+Pasta Salad,Weight Gain,197,6,32,5,1
+Fruit Salad,Weight Gain,76,1,19,0,1
+Potato Salad,Weight Gain,143,2,17,7,1
+Bean Salad,Weight Gain,143,5,25,2,1
+Coleslaw,Weight Gain,145,1,11,11,1
+Chicken Salad,Weight Gain,143,26,3.6,3.1,0
+Tuna Salad,Weight Gain,176,20,1,11,0
+Egg Salad,Weight Gain,196,12,2,15,0
+Shrimp Salad,Weight Gain,163,12,3,11,0
+Ham Salad,Weight Gain,171,15,3,11,0
+Beet Salad,Weight Gain,80,2,18,0,1
+Veggie Burger,Weight Gain,124,13,3,7,1
+Turkey Burger,Weight Gain,202,22,0,12,0
+Salmon Burger,Weight Gain,180,22,1,10,0
+Black Bean Burger,Weight Gain,124,13,3,7,1
+Portobello Mushroom Burger,Weight Gain,157,18,5,9,1
+Quinoa Burger,Weight Gain,220,14,24,9,1
+Chickpea Burger,Weight Gain,190,14,23,7,1
+Tofu Burger,Weight Gain,124,13,3,7,1
+Veggie Wrap,Weight Gain,187,12,28,3,1
+Falafel Wrap,Weight Gain,330,16,41,11,1
+Chicken Wrap,Weight Gain,291,23,17,12,0
+Turkey Wrap,Weight Gain,249,21,9,14,0
+Shrimp Wrap,Weight Gain,180,24,4,7,0
+Tuna Wrap,Weight Gain,170,24,6,5,0
+Egg Wrap,Weight Gain,195,18,8,10,0
+Steak Wrap,Weight Gain,216,21,9,12,0
+Portobello Mushroom Wrap,Weight Gain,153,16,6,9,1
+Grilled Vegetable Wrap,Weight Gain,191,12,29,3,1
